@@ -1,0 +1,5 @@
+teste
+teste
+adicionei os arquivos no git e fiz o commit
+enviando mudancas para o github
+testando git push
